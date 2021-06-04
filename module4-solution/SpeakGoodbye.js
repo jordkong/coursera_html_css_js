@@ -1,0 +1,1 @@
+var speakWord = "Good Bye";
